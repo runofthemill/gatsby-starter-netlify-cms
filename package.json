@@ -6,7 +6,7 @@
   "dependencies": {
     "bulma": "^0.7.0",
     "gatsby": "next",
-    "gatsby-plugin-netlify": "next",
+    "gatsby-plugin-netlify": "^2.0.0-rc.2",
     "gatsby-plugin-netlify-cms": "next",
     "gatsby-plugin-react-helmet": "next",
     "gatsby-plugin-sass": "next",
